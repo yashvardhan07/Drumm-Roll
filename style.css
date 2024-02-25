@@ -1,0 +1,51 @@
+#image {
+  height: 90px;
+  width: 90px;
+}
+.h {
+  color: white;
+  text-shadow: 3px 3px red;
+  font-size: 100px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+body {
+  background-color: #283149;
+}
+.beats {
+  margin-top: 150px;
+  text-align: center;
+}
+.w {
+  /* margin-top: 200px; */
+  height: 150px;
+  width: 150px;
+  margin: 20px;
+  border: 10px solid #404b69;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  text-align: center;
+}
+.sa {
+  background-image: url("images/crash.png");
+}
+.re {
+  background-image: url("images/tom4.png");
+}
+.ga {
+  background-image: url("images/kick.png");
+}
+.ma {
+  background-image: url("images/snare.png");
+}
+.pa {
+  background-image: url("images/tom1.png");
+}
+.dha {
+  background-image: url("images/tom2.png");
+}
+.ni {
+  background-image: url("images/tom3.png");
+}
